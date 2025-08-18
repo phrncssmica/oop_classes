@@ -4,7 +4,7 @@ class Doctor {
 
   Doctor(this.name, this.specialization);
 
-  void introduce() {
-    print("Hello, I am Dr. $name and I specialize in $specialization.");
+ void greet() {
+    print("Welcome to the hospital!");
   }
 }
