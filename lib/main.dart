@@ -3,7 +3,7 @@ import 'teacher.dart';
 
 void main() {
   Doctor doc = Doctor("Smith", "Cardiology");
-  Teacher teacher = Teacher("Johnson", "Mathematics");
+  Teacher teacher = Teacher("John", "Mathematics");
  
   doc.introduce();
   teacher.introduce();
