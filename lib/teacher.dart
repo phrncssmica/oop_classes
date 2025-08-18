@@ -5,6 +5,6 @@ class Teacher {
   Teacher(this.name, this.subject);
 
   void introduce() {
-    print("Hello, I am $name and I teach $subject.");
+    print("Hi, I am $name and I teach $subject.");
   }
 }
